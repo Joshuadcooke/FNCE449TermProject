@@ -2,7 +2,7 @@
 There are 3 Python files in this repository:
 
 FNCE 449 Term Project CSV Download.py:
-    This Python file downloads the data I used in the following Python files. It is not neccesary to run this code as I have the data sitting in another repository and it will automatically be pulled when running the next two Python files. I only included it to show how I       accessed the CSV files. This is data is located at: https://github.com/Joshuadcooke/TermProjectData
+    This Python file downloads the data I used in the following Python files. It is not neccesary to run this code as I have the data sitting in another repository and it will automatically be pulled when running the next two Python files. I only included it to show how I       accessed the CSV files. This data is located at: https://github.com/Joshuadcooke/TermProjectData
 
 FNCE 449 Term Project Pre Covid Code.py:
     This code file is testing my sector rotation strategy against the cumulative returns of the S&P 500 from 2016-01-01 to 2018-01-01 (pre-COVID). Using data in the other repository: https://github.com/Joshuadcooke/TermProjectData
