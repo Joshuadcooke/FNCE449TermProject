@@ -10,7 +10,7 @@ FNCE 449 Term Project Pre Covid Code.py:
       "Average Monthly Returns Pre-Covid (2016-2018)" for my chosen stocks of AAPL, JPM, TSLA, XOM, and META.
       Ending Cumulative Return of Portfolio, Ending Cumulative Return of S&P 500, and the Difference in Cumulative Return (Portfolio - S&P 500).
       Figure 2 shows a graph of the Cumulative Portfolio Return vs S&P 500. The date is on the x-axis and the cumultaive return is on the y-axis.
-      Figure 1 shows the monthly trade log, this identifies which stocks are purchased at the end of each month based off of the returns throughout that month. With the exception of the first month, the previous trade is closed before the stocks are selected.
+      Figure 1 shows the monthly trade log, this identifies which stocks are purchased at the end of each month based off of the returns throughout that month. With the exception of the first month, the previous trades are closed before the stocks are selected.
 
 FNCE 449 Term Project Post Covid Code.py:
     This code file is testing my sector rotation strategy against the cumulative returns of the S&P 500 from 2022-11-01 to 2024-11-01 (post-COVID). Using data in the other repository: https://github.com/Joshuadcooke/TermProjectData
@@ -18,4 +18,4 @@ FNCE 449 Term Project Post Covid Code.py:
       "Average Monthly Returns Pre-Covid (2022-2024)" for my chosen stocks of AAPL, JPM, TSLA, XOM, and META.
       Ending Cumulative Return of Portfolio, Ending Cumulative Return of S&P 500, and the Difference in Cumulative Return (Portfolio - S&P 500).
       Figure 2 shows a graph of the Cumulative Portfolio Return vs S&P 500. The date is on the x-axis and the cumultaive return is on the y-axis.
-      Figure 1 shows the monthly trade log, this identifies which stocks are purchased at the end of each month based off of the returns throughout that month. With the exception of the first month, the previous trade is closed before the stocks are selected.
+      Figure 1 shows the monthly trade log, this identifies which stocks are purchased at the end of each month based off of the returns throughout that month. With the exception of the first month, the previous trades are closed before the stocks are selected.
