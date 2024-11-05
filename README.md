@@ -1,4 +1,6 @@
 # FNCE449TermProject
+These code files aim to evaluate the performance of a sector rotation strategy by analyzing returns of the strategy against the S&P 500 for two periods: pre and post COVID. By looking at performance over these periods, we can explore how effective this strategy is under different economic conditions and how sector performance may have shifted in response to unprecedented events. The sector rotation strategy implemented involves looking at the returns of 5 chosen securities from a given month and then purchasing the top performers and then unwinding the position and reallocating at the end of the following month. This approach is intended to capture gains in high-performing sectors while minimizing exposure to underperforming areas.
+
 There are 3 Python files in this repository:
 
 FNCE 449 Term Project CSV Download.py:
